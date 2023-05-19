@@ -25,15 +25,27 @@ See schema for visualisation.
     playlists & playlist_track tables: playlists table store data about playlists. Each playlist contains a list of tracks. Each track may belong to multiple playlists. The relationship between the playlists table and tracks table is many-to-many. The playlist_track table is used to reflect this relationship.
 
 Questions queries answer:
+
 How many customers are there currently?
+
 How many customers for each state?
+
 How many artists are there currently?
+
 What are the ten Artists with the most tracks?
+
 What's the average number of tracks for all the artists?
+
 Which artists are below or above track average?
+
 Which artists have more albums than the average number of albums for all artists?
+
 How many songs are in each playlist?
+
 Which genre has the most tracks in playlists?
+
 Which artist is on the most playlists?
+
 What songs are on the most playlists?
+
 Which track has the most invoices?
