@@ -82,3 +82,5 @@ Track with the most invoices: The Trooper
 Market and learn more from Iron Maiden and classic rock users
 
 Get more customers to use Music Database
+
+Get more artists loaded into the Database so a wider net can be spread to attract more users
