@@ -1,10 +1,10 @@
 Music Database
 
 This is a mock music database
+[music_schema.pdf](https://github.com/Ducky-007/MusicData/files/11781959/music_schema.pdf)
 
-There are 11 tables in the chinook sample database.
 
-See schema for visualisation.
+See music_schema.pdf for visualisation.
 
     employees table stores employees data such as employee id, last name, first name, etc. It also has a field named ReportsTo to specify who reports to whom.
     
@@ -49,3 +49,35 @@ Which artist is on the most playlists?
 What songs are on the most playlists?
 
 Which track has the most invoices?
+
+# Conclusion
+
+Average track per listener: 12
+
+Average Album per Artist: 1
+
+Music and 90's Music playlist has the most tracks in it
+
+Top Ten Artists with the Most Tracks:
+
+Iron Maiden
+U2
+Led Zeppelin
+Metallica
+Lost
+Deep Purple
+Pearl Jam
+Lenny Kravitz
+Various Artists
+The Office
+
+Total Artists: 275
+
+Total Customers: 99
+
+Track with the most invoices: The Trooper
+
+# Conclusion
+Market and learn more from Iron Maiden and classic rock users
+
+Get more customers to use Music Database
