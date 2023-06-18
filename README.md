@@ -25,7 +25,7 @@ This is a mock music database
     
     playlists & playlist_track tables: playlists table store data about playlists. Each playlist contains a list of tracks. Each track may belong to multiple playlists. The relationship between the playlists table and tracks table is many-to-many. The playlist_track table is used to reflect this relationship.
 
-Questions queries answer:
+Questions queries answer for stakeholders:
 
 How many customers are there currently?
 
@@ -57,7 +57,7 @@ Average track per listener: 12
 
 Average Album per Artist: 1
 
-Music and 90's Music playlist has the most tracks in it
+Music and 90's Music genres are being used in most playlists
 
 Top Ten Artists with the Most Tracks:
 
