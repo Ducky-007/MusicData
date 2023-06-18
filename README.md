@@ -5,7 +5,7 @@ This is a mock music database
 [music_schema.pdf](https://github.com/Ducky-007/MusicData/files/11781959/music_schema.pdf)
 
 
-See music_schema.pdf ☝🏻 for visualisation.
+☝🏻 See music_schema.pdf for visualisation.
 
     employees table stores employees data such as employee id, last name, first name, etc. It also has a field named ReportsTo to specify who reports to whom.
     
