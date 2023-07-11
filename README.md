@@ -1,4 +1,4 @@
-Music Database
+# Music Database
 
 This is a mock music database
 
