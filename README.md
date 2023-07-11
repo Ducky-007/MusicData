@@ -53,7 +53,7 @@ Which track has the most invoices?
 
 # Conclusion
 
-Average track per listener: 12
+Average tracks per Artist: 12
 
 Average Album per Artist: 1
 
