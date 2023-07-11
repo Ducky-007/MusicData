@@ -61,15 +61,15 @@ Music and 90's Music genres are being used in most playlists
 
 Top Ten Artists with the Most Tracks:
 
-Iron Maiden
-U2
-Led Zeppelin
-Metallica
-Lost
-Deep Purple
-Pearl Jam
-Lenny Kravitz
-Various Artists
+Iron Maiden,
+U2,
+Led Zeppelin,
+Metallica,
+Lost,
+Deep Purple,
+Pearl Jam,
+Lenny Kravitz,
+Various Artists,
 The Office
 
 Total Artists: 275
