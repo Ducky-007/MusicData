@@ -47,17 +47,17 @@ Which genre has the most tracks in playlists?
 
 Which artist is on the most playlists?
 
-What songs are on the most playlists?
+What genres are on the most playlists?
 
 Which track has the most customers?
 
 # Conclusion
 
-Average tracks per Artist: 12
+Total Customers: 99
 
-Average Album per Artist: 1
+See csv file for customers for each state
 
-Music and 90's Music genres are being used in most playlists
+Total Artists: 275
 
 Top Ten Artists with the Most Tracks:
 
@@ -72,11 +72,15 @@ Lenny Kravitz,
 Various Artists,
 The Office
 
-Total Artists: 275
+Average tracks per Artist: 12
 
-Total Customers: 99
+See csv for each artst album totals being above or below average
 
-Track with the most invoices: The Trooper
+Average Album per Artist: 1
+
+Music and 90's Music genres are being used in most playlists
+
+Track with the most customers: The Trooper
 
 # Conclusion
 Market and learn more from Iron Maiden and classic rock users
