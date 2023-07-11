@@ -25,7 +25,7 @@ tracks table stores the data of songs. Each track belongs to one album.
     
 playlists & playlist_track tables: playlists table store data about playlists. Each playlist contains a list of tracks. Each track may belong to multiple playlists. The relationship between the playlists table and tracks table is many-to-many. The playlist_track table is used to reflect this relationship.
 
-# Questions queries answer for stakeholders:
+# Stakeholder Questions Queried Answered:
 
 How many customers are there currently?
 
