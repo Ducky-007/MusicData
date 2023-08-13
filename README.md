@@ -19,7 +19,7 @@ Albums table stores data about a list of tracks. Each album belongs to one artis
 
 Media_types table stores media types such as MPEG audio and AAC audio files.
 
-Genres table stores music types such as rock, jazz, metal, etc.
+Genres table stores music types such as rock, jazz, metal, etc
 
 Tracks table stores the data of songs. Each track belongs to one album.
     
