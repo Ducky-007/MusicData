@@ -13,7 +13,7 @@ Customers table stores customers data
 
 Invoices & invoice_items tables: these two tables store invoice data. The invoices table stores invoice header data and the invoice_items table stores the invoice line items data.
 
-Artists table stores artists data. It is a simple table that contains only the artist id and name.
+Artists table stores artists data. It is a simple table that contains only the artist id and name
 
 Albums table stores data about a list of tracks. Each album belongs to one artist. However, one artist may have multiple albums.
 
