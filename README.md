@@ -9,7 +9,7 @@ This is a mock music database
 
 Employees table stores employees data such as employee id, last name, first name, etc. It also has a field named ReportsTo to specify who reports to whom.
 
-Customers table stores customers data.
+Customers table stores customers data
 
 Invoices & invoice_items tables: these two tables store invoice data. The invoices table stores invoice header data and the invoice_items table stores the invoice line items data.
 
