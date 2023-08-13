@@ -15,7 +15,7 @@ Invoices & invoice_items tables: these two tables store invoice data. The invoic
 
 Artists table stores artists data. It is a simple table that contains only the artist id and name
 
-Albums table stores data about a list of tracks. Each album belongs to one artist. However, one artist may have multiple albums.
+Albums table stores data about a list of tracks. Each album belongs to one artist. However, one artist may have multiple albums
 
 Media_types table stores media types such as MPEG audio and AAC audio files.
 
